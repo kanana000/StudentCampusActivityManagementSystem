@@ -1,0 +1,2 @@
+# StudentCampusActivityManagementSystem
+first commit
